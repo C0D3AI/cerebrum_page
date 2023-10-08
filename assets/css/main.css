@@ -3206,7 +3206,7 @@
     	background-image: url("images/overlay.png"), linear-gradient(45deg, #5f7bbd  0%, #212F59 100%);
     	background-size: 100px 100px, cover; */
     	/* color: rgb(255, 255, 255); Text color */
-    	padding: 10em 0 4em;
+    	padding: 8em 0 3em;
 	}
 
 
@@ -3227,6 +3227,8 @@
 
 		/* Style the button */
 	.button.special {
+		margin-top: 10%;
+		margin-left: 30%;
  	   	background-color: #91D8BE; /* Set the background color to #91D8BE */
     	color: #fff;/* Set the text color to white or any other color for better contrast */
     	transition: background-color 0.3s ease; /* Add a smooth transition effect for the background color change */
